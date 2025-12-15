@@ -39,3 +39,4 @@ print(c.endswith("a",4,6))
 print(c.find("syy"))
 print(c.index("s"))
 print(c.isalnum())
+
